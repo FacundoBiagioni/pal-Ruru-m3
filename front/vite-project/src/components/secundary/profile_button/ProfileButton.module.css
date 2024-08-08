@@ -1,0 +1,10 @@
+.profilebutton {
+    margin: 5px;
+}
+
+.button {
+    background-color: rgb(0, 0, 0);
+    color: rgb(236, 193, 136);
+    padding: 7px 15px;
+    font-size: 20px;
+}
